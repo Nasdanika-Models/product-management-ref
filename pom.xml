@@ -6,7 +6,7 @@
 	<version>2026.2.0</version>
 	<packaging>pom</packaging>
 	<name>Product Management model, processors, doc generator</name>
-	<url>https://terraform.models.nasdanika.org/</url>
+	<url>https://product-management.models.nasdanika.org/</url>
 
 	<licenses>
 		<license>

@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>model</artifactId>
 	<packaging>jar</packaging>
-	<name>Ecore Terraform Model</name>
+	<name>Ecore Product Management Model</name>
 	<build>
 		<plugins>
 			<plugin>
